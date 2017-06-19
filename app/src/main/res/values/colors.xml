@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    
+    <color name="white">#ffffff</color>
+    <color name="ho">#fd6c70</color>
+    <color name="lu">#76c000</color>
+    <color name="hui">#dcdcdc</color>
+    <color name="jx">#f0f0f0</color>
 </resources>
